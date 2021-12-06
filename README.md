@@ -1,8 +1,8 @@
 ## Olá! Eu sou Ian Rodrigues || @MateusRodd || Sejam Bem-vindos!
  <div>
   <a href="https://github.com/MateusRodd">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateusrodd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrodd&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IanMattRodd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanMattRodd&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
 <div style="display: inline_block"><br>
