@@ -32,7 +32,7 @@
 
 <div>
     <h2 align="center">SOBRE MIM</h2>
-    <img align="left" width="250" src="https://avatars.githubusercontent.com/u/86446951?v=4">
+    <img align="left" width="180" src="https://avatars.githubusercontent.com/u/86446951?v=4">
     <p align="justify">Meu nome é Ian Rodrigues, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas.</p>
     <P>
         🎓 Cursando Análise e Desenvolvimento de Sistemas (3º Semestre). <br>
