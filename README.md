@@ -1,5 +1,5 @@
 <div align="center"> 
-    <h2>Olá! Eu sou Ian Rodrigues || @MateusRodd || Sejam Bem-vindos!</h2>
+    <h2>Olá! Eu sou Ian Rodrigues || @IanMattRodd || Sejam Bem-vindos!</h2>
 </div>
 
 <div align="center">
