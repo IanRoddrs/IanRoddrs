@@ -1,5 +1,6 @@
 <div align="center"> 
     <h2>Olá! Eu sou Ian Rodrigues || @IanMattRodd || Sejam Bem-vindos!</h2>
+    <p>Atuamente esse perfil serve apenas para repositório das minhas aulas, mas estarei trabalhando em projetos pessoais em breve!</p>
 </div>
 
 <div align="center">
@@ -37,7 +38,7 @@
     <P>
         🎓 Cursando Análise e Desenvolvimento de Sistemas (3º Semestre). <br>
         🇯🇵|🇺🇸 Possuo conhecimento em inglês e japonês - atualmente, estudando para a prova de proficiecia em japonês (JLPT N4). <br>
-        👨‍🎓 Estudando Desenvolvimento Web na plataforma Udemy. <br>
+        👨‍🎓 Estudando Desenvolvimento Web. <br>
         🥋 faixa preta de Karatê.
     </P>
 </div>
