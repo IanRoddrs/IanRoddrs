@@ -40,6 +40,7 @@
         🇯🇵|🇺🇸 Possuo conhecimento em inglês e japonês - atualmente, estudando para a prova de proficiecia em japonês (JLPT N4). <br>
         👨‍🎓 Estudando Desenvolvimento Web. <br>
         🥋 faixa preta de Karatê.
+        🎨 Possuo habilidades com desenho e design gráfico.
     </P>
 </div>
 
