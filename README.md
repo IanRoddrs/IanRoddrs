@@ -39,7 +39,7 @@
         🎓 Cursando Análise e Desenvolvimento de Sistemas (3º Semestre). <br>
         🇯🇵|🇺🇸 Possuo conhecimento em inglês e japonês - atualmente, estudando para a prova de proficiecia em japonês (JLPT N4). <br>
         👨‍🎓 Estudando Desenvolvimento Web. <br>
-        🥋 faixa preta de Karatê.
+        🥋 faixa preta de Karatê.<br>
         🎨 Possuo habilidades com desenho e design gráfico.
     </P>
 </div>
