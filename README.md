@@ -38,7 +38,7 @@
     <P>
         💻 Estagiário de Suporte de Informática na Polícia Cientifica do Estado do Pará. <br>
         🎓 Cursando Análise e Desenvolvimento de Sistemas (3º Semestre). <br>
-        🇯🇵|🇺🇸 Possuo conhecimento em inglês e japonês - Certificado com proficiência N5 em japonês e formação em nível avançado em inglês. <br>
+        🌎 Possuo conhecimento em inglês e japonês - Certificado com proficiência N5 em japonês e formação em nível avançado em inglês. <br>
         👨‍🎓 Estudando Desenvolvimento Web. <br>
         🥋 faixa preta de Karatê.<br>
         🎨 Possuo habilidades com desenho e design gráfico.
