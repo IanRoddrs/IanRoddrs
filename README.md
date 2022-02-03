@@ -5,9 +5,11 @@
 
 <div align="center">
     <a href="https://github.com/IanMattRodd">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=IanMattRodd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanMattRodd&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=IanMattRodd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanMattRodd&layout=compact&langs_count=7&theme=tokyonight">
+    <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=IanMattRodd&theme=tokyonight">
 </div>
+
     
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Rodd-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
