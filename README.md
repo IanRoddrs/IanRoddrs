@@ -1,5 +1,5 @@
 <div align="center"> 
-    <h2>Olá! Eu sou Ian Rodrigues || @IanMattRodd || Sejam Bem-vindos!</h2>
+    <h2>Olá! Eu sou Ian Rodrigues || @ianmateusrodd || Sejam Bem-vindos!</h2>
     <p>Atuamente esse perfil serve apenas para repositório das minhas aulas, mas estarei trabalhando em projetos pessoais em breve!</p>
 </div>
 
