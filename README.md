@@ -5,9 +5,10 @@
 
 <div align="center">
     <a href="https://github.com/ianmrodrigues">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ianmrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmrodrigues&layout=compact&langs_count=7&theme=tokyonight">
-    <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=ianmrodrigues&theme=tokyonight">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ianmrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+        <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=ianmrodrigues&theme=tokyonight">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmrodrigues&layout=compact&langs_count=7&theme=tokyonight">
+    </a>
 </div>
 
     
