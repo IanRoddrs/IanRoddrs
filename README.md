@@ -1,6 +1,6 @@
 <div align="center"> 
-    <h2>Olá! Eu sou Ian Rodrigues || @ianmrodrigues|| Sejam Bem-vindos!</h2>
-    <p>Atuamente esse perfil serve apenas para repositório das minhas aulas, mas estarei trabalhando em projetos pessoais em breve!</p>
+    <h2>Hello! I'm Ian Rodrigues  ||@ianmrodrigues|| wellcome!</h2>
+    <p>In this profile you will find some personal projects, mostly frontend projects, which are based on my current studies in the area.</p>
 </div>
 
 <div align="center">
@@ -16,8 +16,8 @@
     <img align="center" alt="Rodd-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rodd-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rodd-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rodd-CPLUSPLUS" height="50" width="60" src="https://icongr.am/devicon/cplusplus-original.svg">
-    <img align="center" alt="Rodd-JAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <!--<img align="center" alt="Rodd-CPLUSPLUS" height="50" width="60" src="https://icongr.am/devicon/cplusplus-original.svg">-->
+    <!--<img align="center" alt="Rodd-JAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">-->
     <img align="center" alt="Rodd-VS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img aligh="center" valign="bottom" alt="Rodd-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
    
@@ -26,7 +26,7 @@
 <hr>
 
 <div align="center"> 
-    <!-- <a href="https://www.linkedin.com/in/mateusrodd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
+    <a href="https://www.linkedin.com/in/ianmrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://github.com/ianmrodrigues" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
@@ -42,17 +42,17 @@
 <hr>
 
 <div>
-    <h2 align="center">SOBRE MIM</h2>
-    <img align="left" width="180" src="https://avatars.githubusercontent.com/u/86446951?v=4">
-    <p align="justify">Meu nome é Ian Rodrigues, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas.</p>
-    <P>
-        💻 Estagiário de Suporte de Informática na Polícia Cientifica do Estado do Pará. <br>
-        🎓 Sistemas de Informação - UFPA (1º Semestre). <br>
-        🎓 Análise e Desenvolvimento de Sistemas (3º Semestre). <br>
-        🌎 Possuo conhecimento em inglês e japonês - Certificado com proficiência N5 em japonês e formação em nível avançado em inglês. <br>
-        👨‍🎓 Estudando Desenvolvimento Web. <br>
-        🥋 faixa preta de Karatê.<br>
-        🎨 Possuo habilidades com desenho e design gráfico.
-    </P>
+    <h2 align="center">ABOUT ME</h2>
+    <p align="justify">
+        Graduating in Information Systems (UFPA) and Systems Analysis and Development (Wyden/Faci).</p>
+    </p>
+    <ul>
+           <li>Scientific Initiation Scholarship at the "Organizational Behavior Management Laboratory" - GESTCOM
+           <li>Worked as a computer support intern at the Scientific Police of Pará.
+           <li>Advanced certification in english</li>
+           <li>Japanese N5 Certification </li>
+           <li>Studying Web Development</li>
+           <li>Drawing and graphic design skills</li>
+    </ul>
 </div>
 
