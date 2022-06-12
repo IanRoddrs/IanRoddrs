@@ -1,13 +1,13 @@
 <div align="center"> 
-    <h2>Hello! I'm Ian Rodrigues  ||@ianmrodrigues|| wellcome!</h2>
+    <h2>Hello! I'm Ian Rodrigues  ||@IanRoddrs|| wellcome!</h2>
     <p>In this profile you will find some personal projects, mostly frontend projects, which are based on my current studies in the area.</p>
 </div>
 
 <div align="center">
-    <a href="https://github.com/ianmrodrigues">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ianmrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-        <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=ianmrodrigues&theme=tokyonight">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmrodrigues&layout=compact&langs_count=7&theme=tokyonight">
+    <a href="https://github.com/IanRoddrs">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=IanRoddrs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+        <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=IanRoddrs&theme=tokyonight">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanRoddrs&layout=compact&langs_count=7&theme=tokyonight">
     </a>
 </div>
 
@@ -26,15 +26,15 @@
 <hr>
 
 <div align="center"> 
-    <a href="https://www.linkedin.com/in/ianmrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://github.com/ianmrodrigues" target="_blank">
+    <a href="https://www.linkedin.com/in/IanRoddrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/IanRoddrs" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
     <a href="mailto:mateusroddi@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <!-- <a href="https://twitter.com/Mateus_Rodd" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> -->
-    <a href="https://www.instagram.com/ianmrodrigues_/" target="_blank">
+    <a href="https://www.instagram.com/IanRoddrs/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
 </div>
