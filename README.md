@@ -1,7 +1,24 @@
 <div align="center"> 
-    <h2>Hello! I'm Ian Rodrigues  ||@IanRoddrs|| wellcome!</h2>
-    <p>In this profile you will find some personal projects, mostly frontend projects, which are based on my current studies in the area.</p>
+    <h2> ◢ΙΛΝ◣</h2>
+    <p>Welcome to my personal repository. Here you will find my learning codes e some projects.</p>
 </div>
+
+<div>
+     <img src="https://user-images.githubusercontent.com/86446951/179371112-4038125a-2dc5-4b03-8d1a-1d939e89439b.jpg">
+     <div align="center"> 
+    <a href="https://www.linkedin.com/in/IanRoddrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/IanRoddrs" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="mailto:mateusroddi@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://twitter.com/IanRodds" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/IanRoddrs/" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+</div>
+
 
 <div align="center">
     <a href="https://github.com/IanRoddrs">
@@ -10,6 +27,7 @@
         <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanRoddrs&layout=compact&langs_count=7&theme=tokyonight">
     </a>
 </div>
+
 
     
 <div style="display: inline_block" align="center"><br>
@@ -20,39 +38,18 @@
     <!--<img align="center" alt="Rodd-JAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">-->
     <img align="center" alt="Rodd-VS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img aligh="center" valign="bottom" alt="Rodd-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-   
+    <img aligh="center" valign="bottom" alt="Rodd-PY" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
-
-<hr>
-
-<div align="center"> 
-    <a href="https://www.linkedin.com/in/IanRoddrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://github.com/IanRoddrs" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="mailto:mateusroddi@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <!-- <a href="https://twitter.com/Mateus_Rodd" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> -->
-    <a href="https://www.instagram.com/IanRoddrs/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-</div>
-
-<hr>
 
 <div>
-    <h2 align="center">ABOUT ME</h2>
+    <h2 align="center">SOBRE MIM</h2>
     <p align="justify">
-        Graduating in Information Systems (UFPA) and Systems Analysis and Development (Wyden/Faci).</p>
+       Estudante de SI na Universidade Federal do Pará (UFPA). Atualmente secretário adjunto da Secretária de Comunicção do Centroi Acadêmico de Sistemas de Informação (CASI). Bolsista no Laboratório de Gestão de Comportamento Organizacional (GESTCOM), onde trabalho desevolvendo e atualizando o site do laboratório. Além disso, bolsista da FAPSI - Faculdade de Psicologia da UFPA, onde trabalho na secretária da faculdade.
     </p>
     <ul>
-           <li>Scientific Initiation Scholarship at the "Organizational Behavior Management Laboratory" - GESTCOM
-           <li>Worked as a computer support intern at the Scientific Police of Pará.
-           <li>Advanced certification in english</li>
-           <li>Japanese N5 Certification </li>
-           <li>Studying Web Development</li>
-           <li>Drawing and graphic design skills</li>
+           <li>Proficiência N5 em Japonês 🇯🇵</li>
+           <li>Com foco no Web Development e Python</li>
+           <li>Habilidades com desenho e design</li>
     </ul>
 </div>
 
