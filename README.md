@@ -36,7 +36,7 @@
 <div>
     <h2 align="center">SOBRE MIM</h2>
     <p align="justify">
-       Estudante de SI na Universidade Federal do Pará (UFPA). Atualmente secretário adjunto da Secretária de Comunicação do Centro Acadêmico de Sistemas de Informação (CASI). Bolsista no Laboratório de Gestão de Comportamento Organizacional (GESTCOM), onde trabalho desevolvendo e atualizando o site do laboratório. Além disso, bolsista da FAPSI - Faculdade de Psicologia da UFPA, onde trabalho na secretária.
+       Estudante de SI na Universidade Federal do Pará (UFPA). Atualmente secretário adjunto da Secretaria de Comunicação do Centro Acadêmico de Sistemas de Informação (CASI). Bolsista no Laboratório de Gestão de Comportamento Organizacional (GESTCOM), onde trabalho desevolvendo e atualizando o site do laboratório. Além disso, bolsista da FAPSI - Faculdade de Psicologia da UFPA, onde trabalho na secretária.
     </p>
     <ul>
         <li>Proficiência N5 em Japonês 🇯🇵</li>
