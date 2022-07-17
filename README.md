@@ -46,3 +46,5 @@
     </ul>
 </div>
 
+![Snake animation](https://github.com/IanRoddrs/IanRoddrs/blob/output/github-contribution-grid-snake.svg)
+
